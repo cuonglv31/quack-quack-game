@@ -4,19 +4,15 @@
 
 Tun (Tool) tự động cho Quack Quack Game 
 
-Link tun chính thức 👉 https://j2c.cc/quack
 
 Windows / Mac / Linux đều dùng được miễn cài được NodeJS
 
-Tác giả là thợ sửa laptop 👉 https://tiktok.com/@mhqb365
-
-Tham gia game qua link này 👉 https://t.me/quackquack_game_bot?start=6hn8Xrp7DK
+Tham gia game qua link này 👉 [https://t.me/quackquack_game_bot?start=6hn8Xrp7DK](https://t.me/quackquack_game_bot/myapp?startapp=0ipb6BoCoh)
 
 Tìm hiểu về game ở đây 👉 https://whitepaper.quackquack.games
 
 ## Tuyên bố miễn trừ trách nhiệm
 
-Tui (mhqb365) là chủ sở hữu của những đoạn code trên, tuyên bố sẽ miễn trừ trách nhiệm khi bạn sử dụng những đoạn code này
 
 Bạn có quyền sử dụng nó tùy ý, tuy nhiên xin lưu ý rằng trong mọi trường hợp, khi bạn sử dụng những đoạn code trên cho những mục đích xấu, sửa đổi hoặc những việc tương tự nhằm mục đích gây hại cho những cá nhân, tổ chức khác, bạn sẽ phải chịu trách nhiệm cho những việc đó. Tôi sẽ không phải chịu bất cứ trách nhiệm gì từ việc này
 
@@ -120,5 +116,3 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 5. Không hiển thị emoji: do PowerShell / Cmd không hỗ trợ. Tải Terminal về cài vào rồi mở tun bằng Terminal 👉 https://github.com/microsoft/terminal
 
 ## Tks all and GoodLuck
-
-From [mhqb365.com](https://mhqb365.com) with Love ❤️
